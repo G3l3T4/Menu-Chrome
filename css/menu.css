@@ -13,6 +13,11 @@ header img {
     cursor: pointer;
 }
 
+#config {
+    display: flex;
+    justify-items: auto;  
+}
+
 main {
     display: flex;
     flex-direction: column;
